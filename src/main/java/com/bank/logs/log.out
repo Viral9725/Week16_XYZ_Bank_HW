@@ -1,0 +1,23 @@
+2023-05-23 21:05:365 INFO  HomePage :30 - Click on bank manager login
+2023-05-23 21:05:478 INFO  AddCustomerPage :42 - Click on add customer
+2023-05-23 21:05:05 INFO  AddCustomerPage :49 - Enter first name 
+2023-05-23 21:05:343 INFO  AddCustomerPage :56 - Enter last name 
+2023-05-23 21:05:644 INFO  AddCustomerPage :63 - Enter post code
+2023-05-23 21:05:905 INFO  AddCustomerPage :70 - Click on add button
+2023-05-23 21:05:844 INFO  HomePage :30 - Click on bank manager login
+2023-05-23 21:05:795 INFO  AddCustomerPage :42 - Click on add customer
+2023-05-23 21:05:263 INFO  AddCustomerPage :49 - Enter first name 
+2023-05-23 21:05:855 INFO  AddCustomerPage :56 - Enter last name 
+2023-05-23 21:05:409 INFO  AddCustomerPage :63 - Enter post code
+2023-05-23 21:05:672 INFO  AddCustomerPage :70 - Click on add button
+2023-05-23 21:05:654 INFO  HomePage :30 - Click on bank manager login
+2023-05-23 21:05:573 INFO  AddCustomerPage :42 - Click on add customer
+2023-05-23 21:05:341 INFO  AddCustomerPage :49 - Enter first name 
+2023-05-23 21:05:855 INFO  AddCustomerPage :56 - Enter last name 
+2023-05-23 21:05:113 INFO  AddCustomerPage :63 - Enter post code
+2023-05-23 21:05:368 INFO  AddCustomerPage :70 - Click on add button
+2023-05-23 21:05:638 INFO  HomePage :30 - Click on bank manager login
+2023-05-23 21:05:55 INFO  BankManagerLoginPage :37 - Click on open account
+2023-05-23 21:05:306 INFO  BankManagerLoginPage :44 - Click and select customer name
+2023-05-23 21:05:822 INFO  BankManagerLoginPage :50 - Select currency
+2023-05-23 21:05:47 INFO  BankManagerLoginPage :56 - CLick on process button
